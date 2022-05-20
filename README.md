@@ -1,3 +1,9 @@
+# FazzFi
+website?
+????????
+
+FazzFi is based off an open source project called Speeduino by Josh Stewart.
+
 <div align="center">
 
 <img src="https://github.com/speeduino/wiki.js/raw/master/img/Speeduino%20logo_med.png" alt="Speeduino" width="600" />
@@ -7,12 +13,6 @@
 ##### A low cost, DIY friendly Engine Management System (ECU) based on the Arduino framework
 </div>
 
-
-# FazzFi
-website?
-????????
-
-FazzFi is based off an open source project called Speeduino by Josh Stewart.
 
 ## Speeduino
 The Speeduino project is a flexible, fully featured Engine Management Systems (EMS aka ECU) based on the low cost and open source Arduino platform. It provides the hardware, firmware and software components that make up an engine management system, all provided under open licenses. With over 1000 installations, Speeduino has matured into a product that meets the needs of the hobbyist and enthusiast community without driving prices to the levels of traditional aftermarket ECUs.
